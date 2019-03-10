@@ -1,0 +1,14 @@
+{
+  "name": "iterator-example",
+  "version": "1.0.0",
+  "description": "A sample project for learning about javascript iterators",
+  "main": "index.js",
+  "author": "Becca Bailey",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.3.1"
+  }
+}
